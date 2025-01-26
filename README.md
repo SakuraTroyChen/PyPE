@@ -9,9 +9,9 @@
 
 ## TODO
 
-- [x] Release the code.
-- [] Release the model checkpoint.
-- [] Release the training details.
+- [X] Release the code.
+- [ ] Release the model checkpoint.
+- [ ] Release the training details.
 
 ## Getting Started
 
