@@ -1,28 +1,8 @@
 # PyPE: Pyramid-descent Visual Position Encoding
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-2501.10967-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.10967) [![License](https://img.shields.io/badge/License-Apache-yellow)](https://github.com/SakuraTroyChen/PyPE/blob/main/LICENSE)
-
-## Updates
-
-- [2025-01-27]: Codes of PyPE released.
-- [2025-01-19]: Paper of PyPE online.
-
-## TODO
-
-- [X] Release the code.
-- [ ] Release the model checkpoint.
-- [ ] Release the training details.
-
 ## Getting Started
 
-1. Clone this repository and navigate to PyPE folder.
-
-```
-git clone https://github.com/SakuraTroyChen/PyPE.git
-cd PyPE
-```
-
-2. Install the packages based on the specific type of model you intend to test.
+Install the packages based on the specific type of model you intend to test.
 
 - For LLaVA:
 
@@ -48,19 +28,6 @@ pip install -e lmms-eval
 ```
 
 Then you can refer to `PyPE/eval_scripts` and run the scripts you need.
-
-## Citation
-
-If you are interested or inspired by this work, you can cite us by:
-
-```sh
-@article{chen2025advancing,
-  title={Advancing General Multimodal Capability of Vision-language Models with Pyramid-descent Visual Position Encoding},
-  author={Chen, Zhanpeng and Li, Mingxiao and Chen, Ziyang and Du, Nan and Li, Xiaolong and Zou, Yuexian},
-  journal={arXiv preprint arXiv:2501.10967},
-  year={2025}
-}
-```
 
 ## Related Projects
 
