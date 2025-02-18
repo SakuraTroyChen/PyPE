@@ -1,16 +1,17 @@
 # PyPE: Pyramid-descent Visual Position Encoding
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-2501.10967-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.10967) [![License](https://img.shields.io/badge/License-Apache-yellow)](https://github.com/SakuraTroyChen/PyPE/blob/main/LICENSE)
+[![ArXiv](https://img.shields.io/badge/ArXiv-2501.10967-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.10967) [![License](https://img.shields.io/badge/License-Apache-yellow)](https://github.com/SakuraTroyChen/PyPE/blob/main/LICENSE) [![Model](https://img.shields.io/badge/Model-HuggingFace-blue.svg)](https://huggingface.co/Sakura927/PyPE-LLaVA-7B)
 
 ## Updates
 
+- [2025-02-18]: We release the model checkpoint of [PyPE-LLaVA-7B](https://huggingface.co/Sakura927/PyPE-LLaVA-7B).
 - [2025-01-27]: Codes of PyPE released.
 - [2025-01-19]: Paper of PyPE online.
 
 ## TODO
 
-- [X] Release the code.
-- [ ] Release the model checkpoint.
+- [x] Release the code.
+- [x] Release the model checkpoint.
 - [ ] Release the training details.
 
 ## Getting Started
